@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my profile 👋
 👋 Hi, I’m Terry Lee — a Computer Science student at UCLA.
 
 ##  Projects
