@@ -1,9 +1,10 @@
 ## Hi there 👋
 👋 Hi, I’m Terry Lee — a Computer Science student at UCLA.
 
-## 🚀 Projects
+##  Projects
 
 ### [B-Ride: The Ride-Sharing App for Bruins](https://github.com/tlee817/B-Ride-The-Ride-Sharing-App-for-Bruins)
+Role: Backend Developer
 A ride-sharing application designed specifically for UCLA students. This project demonstrates skills in full-stack development, user interface design, and team collaboration.
 
 -  **Tech Stack:** React, Node.js, Express, PostgreSQL
