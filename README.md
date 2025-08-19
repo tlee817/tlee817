@@ -8,16 +8,16 @@ Role: Backend Developer
 A ride-sharing application designed specifically for UCLA students. This project demonstrates skills in full-stack development, user interface design, and team collaboration.
 
 -  **Tech Stack:** React, Node.js, Express, PostgreSQL
--  **Highlights:** Campus-authenticated ride requests, real-time updates, student-focused UX
+-  **Highlights:** Campus-authenticated ride requests, real-time updates
 
 ---
 
-### [SQL Project Repository](https://github.com/tlee817/SQL)
+### [SQL in C++](https://github.com/tlee817/SQL)
 A collection of SQL queries and exercises showcasing database querying skills across a variety of scenarios and datasets.
 
 A fully custom-built SQL engine project demonstrating deep understanding of database internals, efficient query processing, and data structure implementation.
 
-- 🏗 **Core Implementations:** Built all major data structures from scratch, including:
+-  **Core Implementations:** Built all major data structures from scratch, including:
   - Linked Lists
   - Stacks
   - B+ Trees
