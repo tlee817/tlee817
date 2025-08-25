@@ -25,7 +25,6 @@ A fully custom-built SQL engine project demonstrating deep understanding of data
   - Shunting Yard Algorithm for parsing
   - Reverse Polish Notation (RPN) for expression evaluation
 -  **Performance:** Query engine designed with efficient algorithms (average time complexity: **O(n log n)**)
--  **Focus Areas:** Query parsing, logical planning, indexing, and execution
 <!--
 **tlee817/tlee817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
